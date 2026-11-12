@@ -20,7 +20,7 @@ The workflow analyzes PDF-based corporate materials and extracts evidence of AI 
 ## Main Notebooks
 
 - `ai_eligibility_pdf_analysis.ipynb` — robust PDF extraction, AI-term detection, eligibility rates, AIE-style exposure metrics.
-- `ai_zero_shot_topic_classification.ipynb` — transformer zero-shot topic assignment for AI snippets, with sector/year trend charts and heatmaps.
+- `ai_zero_shot_topic_classification.ipynb` — transformer zero-shot topic assignment (and time horizon) for AI snippets, with sector/year trend charts and heatmaps. 
 - `ai_snippets_sentiment_classification.ipynb` — transformer sentiment classification for snippets from `data/snippets.csv`, with overall and sector-level evolution.
 
 ## Data Assumptions
